@@ -12,4 +12,4 @@ This is my first Git project. I'm using it to practice:
 - `git add <file>` – stage a file
 - `git commit -m "message"` – save a snapshot of the work.
 
-This is me looking at branches in git
+This is me looking at branches in git cause i like to!
